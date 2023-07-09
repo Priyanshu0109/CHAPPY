@@ -1,5 +1,5 @@
-# CHAPPY - Chat Application 
-CHAPPY is chat application build with the power of MERN Stack.
+ Chat Application 
+chat application build with the power of MERN Stack.
 
 ## Installation Guide
 
